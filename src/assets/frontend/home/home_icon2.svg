@@ -1,0 +1,38 @@
+<svg width="73" height="73" viewBox="0 0 73 73" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="73" height="73" fill="#D6D6D6"/>
+<g id="Rik E-learning">
+<rect width="1440" height="6040" transform="translate(-1008 -810)" fill="white"/>
+<rect id="Rectangle 4547" x="-1008" y="-80" width="1440" height="233" fill="#F5F7FA"/>
+<g id="Countdown-eLearning Landing Page 4">
+<g id="Countdown">
+<g id="Group 4254">
+<g id="Icon">
+<circle id="Ellipse 53" cx="36.5" cy="36.5" r="36.5" fill="#1DD11C"/>
+<g id="Group 552">
+<path id="Comment" d="M47 24H27C24.7909 24 23 25.7909 23 28V39.0909C23 41.3 24.7909 43.0909 27 43.0909H38.2727L44.6364 49.4545V43.0909H47C49.2091 43.0909 51 41.3 51 39.0909V28C51 25.7909 49.2091 24 47 24Z" fill="white"/>
+<g id="Group 551">
+<circle id="Ellipse 370" cx="29.4995" cy="33.5" r="1.5" fill="#2B3747"/>
+<circle id="Ellipse 371" cx="37.1362" cy="33.5" r="1.5" fill="#2B3747"/>
+<circle id="Ellipse 372" cx="44.771" cy="33.5" r="1.5" fill="#2B3747"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Images">
+<g id="Card">
+<g id="Rectangle 4328" opacity="0.05" filter="url(#filter0_f_0_1)">
+<rect x="-230" y="-265" width="173" height="141" rx="14" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-359" y="-394" width="431" height="399" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="64.5" result="effect1_foregroundBlur_0_1"/>
+</filter>
+</defs>
+</svg>
